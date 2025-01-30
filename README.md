@@ -82,6 +82,8 @@
 
 ![preview](https://i.imgur.com/EXlGYAB.gif)
 
+If the embed not working: https://i.imgur.com/EXlGYAB.gif
+
 ---
 
 ### ❗ Disclaimers
