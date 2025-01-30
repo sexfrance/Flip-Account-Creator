@@ -1,5 +1,5 @@
 Faker==25.3.0
 logmagix==2.0.10
-tls_client==1.0.1
+git+https://github.com/Nintendocustom/Python-Tls-Client.git
 toml==0.10.2
 urllib3==2.3.0
