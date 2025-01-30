@@ -1,0 +1,11 @@
+[ data ]
+useBio = false
+password = "GenBySexfrance2025@"
+
+[ captcha ]
+NextCaptcha_Key = ""
+
+[ dev ]
+Debug = true
+Proxyless = true
+Threads = 1
