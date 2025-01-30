@@ -80,7 +80,7 @@
 
 ### 📹 Preview
 
-[preview](https://i.imgur.com/EXlGYAB.gif)
+![preview](https://i.imgur.com/EXlGYAB.gif)
 
 ---
 
