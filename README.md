@@ -90,7 +90,7 @@ If the embed not working: https://i.imgur.com/EXlGYAB.gif
 
 - This project is for educational purposes only
 - The author is not responsible for any misuse of this tool
-- Use responsibly and in accordance with Flip's terms of service
+- Use responsibly and in accordance with [Flip's terms of service](https://flip.shop/terms)
 
 ---
 
